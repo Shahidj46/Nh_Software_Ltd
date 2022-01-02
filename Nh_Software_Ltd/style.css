@@ -1,0 +1,110 @@
+body{
+	background-color:#333;
+	color:white;
+}
+.navbar{
+	border-bottom:#33F 2px solid;
+	opacity:0.8;
+}
+.photo{
+	background-image:url(a.jpg);
+	margin-top:60px;
+	height:450px;}
+	
+.form{
+	margin-top:30px;
+	margin-right:60px;
+	background-color:#09F;
+	padding:20px;
+
+		}
+	
+	.ex{
+	margin-top:90px;
+	margin-right:13px;
+	background-color:#333;
+	padding:20px;}
+	
+	.bottom{
+		background-color:#F99;
+		height:100px;
+		padding:26px;}
+	.sp{
+		color:#000;}
+	.boss{
+		border-radius:100px;
+		width:200px;
+		height:200px;
+		margin-left:180px;}
+	
+	.boss1{
+		background-color:#666;}
+	.h1{
+		margin-left:500px;
+		padding-top:20px;}
+	.con1{
+		margin-left:200px;
+		padding-top:50px;}
+	.con1{
+		margin-left:200px;
+		padding-top:50px;}
+	.dhaka{
+		margin-left:80px;
+		padding-top:50px;
+		color:#E74C3C;
+		font-size:36px;}
+	.natore{
+		margin-left:80px;
+		padding-top:50px;
+		color:#E74C3C;
+		font-size:36px;}
+	.h1{
+		color:#FFF;
+		font-weight:bold;
+		margin-left: 600px;}
+	.pad{
+		padding-right:40px;}
+	.span{
+		color:#E74C3C;
+		font-size:large;
+		}
+	.navigation ul li :hover{
+		background-color:orange;
+	
+	}
+	.textarea{
+		width: 340px;
+
+	}
+	.submit1{
+		margin-left: 130px;	
+	}
+	.h3{
+		margin-left: 100px;	
+	}
+	.servic{
+		margin-left: 500px;	
+	}
+	.footer{
+		margin-left: 300px;	
+	}
+	.footer1{
+		height: 100px;
+		background-color: rgb(80, 74, 74);
+	}
+	.f{
+		border-radius: 50px;
+	
+
+		}
+	.ff{
+		margin-left: 500px;
+			}
+		
+	
+	
+	
+	
+	
+	
+	
